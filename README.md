@@ -1,4 +1,4 @@
-# nlwTogether
+# nlwTogether ☄
 Acompanhamento da semana nlwTogether
 
 ## Regras
@@ -11,17 +11,17 @@ Acompanhamento da semana nlwTogether
 
 - Cadastro de tag
 
-    [  ] não e permitido cadastrar mais uma tag com o mesmo nome
+    [ x ] não e permitido cadastrar mais uma tag com o mesmo nome
 
-    [  ] não é permitido cadastrar uma tag sem nome
+    [ x ] não é permitido cadastrar uma tag sem nome
 
-    [  ] não é permitido o cadastro a partir de usuários não administradores
+    [ x ] não é permitido o cadastro a partir de usuários não administradores
 
 - Cadastro de elogios 
 
-    [  ] não é permitido um usuário cadastrar um elogio para si
+    [ x ] não é permitido um usuário cadastrar um elogio para si
  
-    [  ] não é permitido cadastrar elogios para usuários inválidos
+    [ x ] não é permitido cadastrar elogios para usuários inválidos
 
-    [  ] o usuário precisa estar autenticado na aplicação 
+    [ x ] o usuário precisa estar autenticado na aplicação 
 
